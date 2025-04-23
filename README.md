@@ -4,7 +4,7 @@
 🚀 Building cool projects with Java  
 📫 Reach me at: sunnyliu2077@gmail.com  
 
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyliu&show_icons=true&theme=radical)
+# ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyliu&show_icons=true&theme=radical)
 
 <!--
 **LiuWillow2/LiuWillow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
