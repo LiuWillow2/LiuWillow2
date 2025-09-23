@@ -2,7 +2,6 @@
 
 🌱 Currently learning backend development  
 🚀 Building cool projects with Java  
-📫 Reach me at: sunnyliu2077@gmail.com  
 
 
 
