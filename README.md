@@ -1,7 +1,7 @@
 # Hi, I'm Sunny 👋
 
-🌱 Currently learning backend development  
-🚀 Building cool projects with Java  
+🌱 LLM MLLM
+🚀 Agent
 
 
 
